@@ -1,0 +1,37 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true,
+  "name": "@sjsaul1101/expandable-scrollable-drawer",
+  "version": "0.5.0",
+  "description": "An expandable/collapsible drawer component for React Native that supports scrollable content",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjsaul1101/expandable-scrollable-drawer.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Drawer",
+    "Gestures"
+  ],
+  "author": "Steve Saul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sjsaul1101/expandable-scrollable-drawer/issues"
+  },
+  "homepage": "https://github.com/sjsaul1101/expandable-scrollable-drawer#readme"
+}
