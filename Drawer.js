@@ -199,6 +199,7 @@ class Drawer extends Component {
             onMomentumScrollEnd={ event => this.checkScrollPosition(event) }
             ref={ ref => this.scrollView = ref }
             directionalLockEnabled
+            showsVerticalScrollIndicator={false}
             scrollEventThrottle={20}>
             <View onLayout={ event => this.measureView(event) }>
               {this.props.children}
