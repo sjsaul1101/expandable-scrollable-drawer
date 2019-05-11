@@ -16,7 +16,7 @@
     "babel-preset-expo": "^5.0.0"
   },
   "name": "@ssaul/expandable-scrollable-drawer",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "An expandable/collapsible drawer component for React Native that supports scrollable content",
   "repository": {
     "type": "git",
